@@ -1,0 +1,2 @@
+# Coffeshopdatabase
+“Coffee Shop Management” and “Online ticketing system” software is general software developed to give the details of Products, Costs, Workers Info and their transaction.I had developed Complete back-end for this project. E-R model with attributes of specific data types, and 1:N, N:1, breaking of M:N to M:1 – 1:N relation. Dumped large amount of data in to database with PHP and checked MySQL queries of database with respect to time, place, revenue , average amount for each store, number of customers 
